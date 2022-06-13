@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredrick-Ofodongoro
-- 👀 I’m interested in Web development, Mobile App development.
-- 🌱 I’m currently learning Mobile App Development, Web Development 
+- 👀 I’m interested in Game Development with Unreal Engine, and Virtual Reality Development 
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
